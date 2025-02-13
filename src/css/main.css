@@ -12,6 +12,11 @@ a#yotpo-widget-btn {
     text-decoration: none;
 }
 
+.accordion-item{
+
+  background:#F8F8FA;
+}
+
 * {
   box-sizing: border-box;
   -moz-box-sizing: border-box;
